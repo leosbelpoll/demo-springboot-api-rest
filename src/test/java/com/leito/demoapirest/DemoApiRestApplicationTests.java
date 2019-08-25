@@ -12,4 +12,9 @@ class DemoApiRestApplicationTests {
 		Assertions.assertSame("fakeTest", "fakeTest");
 	}
 
+	@Test
+	void unit_fake_test2() {
+		Assertions.assertSame("fakeTest2", "fakeTest2");
+	}
+
 }
